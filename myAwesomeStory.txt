@@ -1,4 +1,1 @@
-
-eff
-r
-This is a story about me 
+Hello, this is my first ever time trying to understand git. Hello my name is Kajal
